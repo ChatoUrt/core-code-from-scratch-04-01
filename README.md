@@ -59,7 +59,7 @@ let x = hello();
 ---
 ## --- Funtion with parameter---
 
-[HDefining the parameter of a function to be used in future references](https://www.jshero.net/en/koans/parameter.html)
+[Defining the parameter of a function to be used in future references](https://www.jshero.net/en/koans/parameter.html)
 
 * Solution / /
 ``` javascript
