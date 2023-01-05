@@ -1,7 +1,7 @@
 # core-code-from-scratch-04-01
 
 ## ---Functions---
-* [How do functions work?](https://www.jshero.net/en/koans/function.html)
+[How do functions work?](https://www.jshero.net/en/koans/function.html)
 
 * Solution / /
 ``` javascript
@@ -13,7 +13,7 @@ function hello() {
 ---
 
 ## ---Multiple functions---
-* [Making 2 or more functions](https://www.jshero.net/en/koans/function2.html)
+[Making 2 or more functions](https://www.jshero.net/en/koans/function2.html)
 
 * Solution / /
 ``` javascript
@@ -28,7 +28,7 @@ function b() {
 
 ---
 ## ---Function call---
-* [How do call a function?](https://www.jshero.net/en/koans/functioncall.html)
+[How do call a function?](https://www.jshero.net/en/koans/functioncall.html)
 
 * Solution / /
 ``` javascript
