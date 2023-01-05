@@ -1,9 +1,9 @@
 # core-code-from-scratch-04-01
 
 ## ---Functions---
-[How do functions work?](https://www.jshero.net/en/koans/function.html)
+* [How do functions work?](https://www.jshero.net/en/koans/function.html)
 
-* Solution / /
+Solution / /
 ``` javascript
 function hello() {
   return 'Hello world!';
@@ -13,9 +13,9 @@ function hello() {
 ---
 
 ## ---Multiple functions---
-[Making 2 or more functions](https://www.jshero.net/en/koans/function2.html)
+* [Making 2 or more functions](https://www.jshero.net/en/koans/function2.html)
 
-* Solution / /
+Solution / /
 ``` javascript
 function a() {
   return 'Hello a!';
@@ -28,9 +28,9 @@ function b() {
 
 ---
 ## ---Function call---
-[How do call a function?](https://www.jshero.net/en/koans/functioncall.html)
+* [How do call a function?](https://www.jshero.net/en/koans/functioncall.html)
 
-* Solution / /
+Solution / /
 ``` javascript
 function greet() {
   return 'Haydo!';
@@ -59,9 +59,9 @@ let x = hello();
 ---
 ## --- Funtion with parameter---
 
-[Defining the parameter of a function to be used in future references](https://www.jshero.net/en/koans/parameter.html)
+* [Defining the parameter of a function to be used in future references](https://www.jshero.net/en/koans/parameter.html)
 
-* Solution / /
+Solution / /
 ``` javascript
 function echo(varbl){
   return varbl
