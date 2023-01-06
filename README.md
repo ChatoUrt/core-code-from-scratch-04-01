@@ -70,6 +70,6 @@ function echo(varbl){
 
 ---
 ## Knowledge Base
-[JS Funtions](https://www.w3schools.com/js/js_function_definition.asp)
-[JS MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-[JS function syntax](https://javascriptcode.org/javascript-function-syntax/)
+1. [JS Funtions](https://www.w3schools.com/js/js_function_definition.asp)
+2. [JS MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+3. [JS function syntax](https://javascriptcode.org/javascript-function-syntax/)
